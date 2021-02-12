@@ -1,3 +1,3 @@
 # JabTyper-Game
 
-JabTyper é um game para testar a sua velocidade na digitação.
+JabTyper é uma aplicaçãopara testar a sua velocidade na digitação.
